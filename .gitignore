@@ -3,4 +3,6 @@
 app.db
 search.db
 flask
-
+.project
+virtual.py
+.pydevproject
